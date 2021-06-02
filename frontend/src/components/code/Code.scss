@@ -1,0 +1,19 @@
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+
+    .MuiCard-root {
+        display: flex;
+        flex-direction: column;
+        // flex: 1;
+        // margin: 150px 0;
+        width: 450px;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+    }
+}
